@@ -8,7 +8,7 @@ I'm also learning Spanish as my third language (Arabic, English, Spanish) on Duo
 <div style="display: inline; margin: 1px;">
    <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624448550/github%20photos%20and%20logos/html_ozmds9.png" title="HTML5" alt="HTML5" height="50px" widht="50px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624448970/github%20photos%20and%20logos/css3_ovmbyb.png" title="CSS3" alt="CSS3" height="50px" widht="50px">
-  <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624449202/github%20photos%20and%20logos/js_csbw4l.png" title="Javascript" alt="Javascript" height="50px" width="70px">
+  <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624449202/github%20photos%20and%20logos/js_csbw4l.png" title="Javascript" alt="Javascript" height="55px" width="70px">
     <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624455889/github%20photos%20and%20logos/bootstrap_osku6g.png" style="border-radius: 50%;" title="Bootstrap" alt="Bootstrap" height="55px" width="60px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624455022/github%20photos%20and%20logos/bulma_dqjwfm.png" title="Bulma" alt="Bulma" height="50px" width="60px">
     <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624456950/github%20photos%20and%20logos/pug_daq49s.png" title="Pug" alt="Pug" height="55px" widht="55px">
