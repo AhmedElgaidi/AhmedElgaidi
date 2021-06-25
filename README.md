@@ -3,7 +3,7 @@ I am a junior freelance back-end web developer mainly interested in web penetrat
 I solve problems daily on edabit website and I reached 195 streak days (last updated 23/ 6), check my [Edabit profile](https://edabit.com/user/7kENXQQ8ABiPGfBRD). <br>
 I'm also learning Spanish as a third language (Arabic, English, Spanish) on Duolingo and I reached 484 streak days (last updated 23/ 6), Check my [Duolingo profile](https://www.duolingo.com/profile/Ahmed_Elgaidi).
 
-### My skills:
+### My web skills:
 * Front-end:
 <div style="display: inline; margin: 1px;">
    <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624448550/github%20photos%20and%20logos/html_ozmds9.png" title="HTML5" alt="HTML5" height="50px" widht="50px">
