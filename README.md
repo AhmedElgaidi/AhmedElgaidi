@@ -1,4 +1,4 @@
-### Hi there :)
+### Hello there :)
 I am a junior freelance back-end web developer mainly interested in web penetration testing, and I am seeking employment or new opportunities in the field.<br>
 I solve problems daily on edabit website and I reached 195 streak days (last updated 23/ 6), check my [Edabit profile](https://edabit.com/user/7kENXQQ8ABiPGfBRD). <br>
 I'm also learning Spanish as a third language (Arabic, English, Spanish) on Duolingo and I reached 484 streak days (last updated 23/ 6), Check my [Duolingo profile](https://www.duolingo.com/profile/Ahmed_Elgaidi).
