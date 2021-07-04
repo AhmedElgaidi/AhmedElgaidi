@@ -22,6 +22,7 @@ I'm also learning Spanish as a third language (Arabic, English, Spanish) on Duol
     <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624450387/github%20photos%20and%20logos/mongodb_d5qfhs.png" title="MongoDB" alt="MongoDB" height="60px" width="80px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624449628/github%20photos%20and%20logos/mongoose_knvnre.png" title="Mongoose" alt="Mongoose" height="55px" width="60px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624454146/github%20photos%20and%20logos/firebase_gykjhd.png" title="Firebase" alt="Firebase" height="60px" width="60px">
+  <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1619959382/My%20blog%20photos/redis_ilpfut.png" title="Redis" alt="Redis" height="60px" width="60px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624457641/github%20photos%20and%20logos/sql_ea82gr.png" title="SQL" alt="SQL" height="50px" widht="50px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624457644/github%20photos%20and%20logos/mysql_gpldnf.png" title="MySQL" alt="MySQL" height="60px" widht="60px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624457831/github%20photos%20and%20logos/PostgreSQL_tj3eqy.png" title="PostgreSQL" alt="PostgreSQL" height="60px" widht="60px">
