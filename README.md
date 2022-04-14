@@ -1,7 +1,5 @@
 ### Hello there :)
-I am a junior freelance back-end web developer mainly interested in web penetration testing, and I am seeking employment or new opportunities in the field.<br>
-I solve problems daily on edabit website and I reached 224 streak days (last updated 4/ 22), check my [Edabit profile](https://edabit.com/user/7kENXQQ8ABiPGfBRD). <br>
-I'm also learning Spanish as a third language (Arabic, English, Spanish) on Duolingo and I reached 513 streak days (last updated 4/ 22), check my [Duolingo profile](https://www.duolingo.com/profile/Ahmed_Elgaidi).
+A skilled web developer who is mainly interested in web security and penetration testing.<br>
 
 ### My web skills:
 * Front-end:
@@ -36,22 +34,3 @@ I'm also learning Spanish as a third language (Arabic, English, Spanish) on Duol
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624457232/github%20photos%20and%20logos/babel_lyfpmq.png" title="Babel" alt="Babel" height="50px" widht="50px">
   <img src="https://res.cloudinary.com/dvmkzbrcs/image/upload/v1624457228/github%20photos%20and%20logos/webpack_c1ck8w.png" title="Webpack" alt="Webpack" height="50px" widht="50px">
 </div>
-
-
-
-
-
-<!--
-**AhmedElgaidi/AhmedElgaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
