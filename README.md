@@ -1,6 +1,6 @@
 ## Hello there :)
 
-A skilled web developer who is mainly interested in web security and penetration testing.<br>
+A skilled web developer who is mainly interested in web development, security and penetration testing.<br>
 
 ### My web skills:
 
