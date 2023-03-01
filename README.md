@@ -1,5 +1,5 @@
 
-**A javascript developer, who is specialized in backend development<br/> Also interested in cyber security and cloud computing**
+**A javascript developer, who is specialized in backend development<br/> Also interested in cyber security, cloud computing and scripting**
 
 ### My Tech stack:
 ##### Frontend: 
