@@ -1,3 +1,6 @@
+
+**A javascript developer, who is specialized in backend development<br/> Also interested in cyber security and cloud computing**
+
 ### My Tech stack:
 ##### Frontend: 
 - HtML/ Handlebars/ Pug/ EJS
