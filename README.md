@@ -5,7 +5,7 @@
 ##### Frontend: 
 - HTML/ Handlebars/ Pug/ EJS
 - CSS/ Bootstrap/ Bulma/ SASS
-- Javascript/ familiar with Typescript
+- Javascript/ Typescript
 - Familiar with (React, Redux, Apollo GraphqQL, NextJS)
 ##### Backend:
 - NodeJS/ Express
