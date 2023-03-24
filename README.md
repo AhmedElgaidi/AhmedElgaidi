@@ -1,6 +1,8 @@
 ## About Me
 **A javascript developer, who is specialized in backend development<br/> Also interested in cyber security, cloud computing and scripting**
 
+<img align="right" src=https://i.pinimg.com/originals/2d/31/31/2d3131e5df7138931329c44e12485d5b.gif>
+
 ## My Tech stack
 ##### Frontend: 
 - HTML/ Handlebars/ Pug/ EJS
