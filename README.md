@@ -1,10 +1,9 @@
 
-### About Me:
+## About Me:
 **A javascript developer, who is specialized in backend development.<br/> Also interested in cyber security, cloud computing ,and scripting**
 
-<img align="right" height="200px" alt="GIF" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
 
-### My Tech stack:
+## My Tech stack:
 ##### Frontend: 
 - HTML/ Handlebars/ Pug/ EJS
 - CSS/ Bootstrap/ Bulma/ SASS
