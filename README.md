@@ -1,6 +1,6 @@
 
 ## About Me:
-**A javascript developer, who is specialized in backend development.<br/> Also interested in cyber security, cloud computing ,and scripting**
+**A javascript developer, who is specialized in backend development.<br/> Also interested in web penetration testing, cloud computing ,and scripting**
 
 
 ## My Tech stack:
