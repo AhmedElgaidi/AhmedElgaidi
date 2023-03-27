@@ -12,7 +12,7 @@
 ##### Backend:
 - NodeJS/ Express
 - NoSQL/ MongoDB/ Redis/ Firebase
-- APIs/ RESTful APIs/ GraphQL APIs
+- RESTful APIs/ GraphQL APIs
 - Jest
 
 ##### Other:
