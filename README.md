@@ -13,9 +13,9 @@
 - NodeJS/ Express
 - NoSQL/ MongoDB/ Redis/ Firebase
 - RESTful APIs/ GraphQL APIs
-- Jest
 
 ##### Other:
+- Jest
 - Babel
 - Webpack
 - Postman
