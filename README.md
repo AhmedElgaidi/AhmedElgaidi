@@ -1,10 +1,9 @@
-
-
 ### About Me:
-A javascript developer, who is specialized in backend development.<br/> Also interested in web penetration testing, cloud computing ,and scripting.
 
+<img  align="right" height="220px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 
-<img align="right" height="180px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
+A skilled Javascript developer with a passion for<br/> backend development, and web penetration testing.
+
 
 ### My Tech stack:
 ##### Frontend: 
