@@ -2,7 +2,7 @@
 
 <img  align="right" height="220px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 
-A skilled Javascript developer with a passion for<br/> backend development, and web penetration testing.
+A skilled Javascript developer with a passion for<br/> backend development, and web pentesting.
 
 
 ### My Tech stack:
