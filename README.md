@@ -28,9 +28,10 @@ A skilled Javascript developer with a passion for<br/> backend development, and 
 <br/>
 
 <div align="center">
-  <img align="left" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElgaidi&layout=compact&langs_count=6&theme=radical">
-
-  <img align="right" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedElgaidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElgaidi&layout=compact&langs_count=6&theme=radical">
+<br/>
+<br/>
+  <img align="center" width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedElgaidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
 
  </div>
   
