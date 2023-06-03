@@ -1,8 +1,7 @@
-### About Me:
-
 <img  align="right" height="220px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
-<br/>
-<br/>
+&nbsp;
+
+### About Me:
 A skilled Javascript developer with a passion for<br/> backend development, and web pentesting.
 
 
