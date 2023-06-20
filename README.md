@@ -1,5 +1,13 @@
+<h1 align="center">
+ Hello there, I'm Ahmed Elgaidi 👋 
+</h1>
+<br/>
+<br/>
+
+
 <img  align="right" height="220px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
 &nbsp;
+
 
 ### About Me:
 A skilled Javascript developer with a passion for<br/> backend development, and web pentesting.
