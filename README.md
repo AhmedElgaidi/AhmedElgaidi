@@ -2,7 +2,6 @@
  Hello there, I'm Ahmed Elgaidi 👋 
 </h1>
 <br/>
-<br/>
 
 
 <img  align="right" height="220px" alt="GIF" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif" />
