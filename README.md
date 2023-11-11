@@ -15,12 +15,14 @@ A skilled Javascript developer with a passion for<br/> backend development, and 
 ### My Tech stack:
 ##### Frontend: 
 - HTML/ Handlebars/ Pug/ EJS
-- CSS/ Bootstrap/ Bulma/ SASS
+- CSS/ Bootstrap/ Bulma/ SASS/ TailwindCSS
 - Javascript/ Typescript
 - Familiar with (React, NextJS, Redux, Apollo client)
 ##### Backend:
-- NodeJS/ Express
+- NodeJS/ Express/ NestJS
 - NoSQL/ MongoDB/ Redis/ Firebase
+- SQL/ PostgreSQL
+- TypeORM/ Mongoose/ Sequelize/ Prisma
 - RESTful APIs/ GraphQL APIs
 
 ##### Other:
@@ -30,7 +32,8 @@ A skilled Javascript developer with a passion for<br/> backend development, and 
 - Postman
 - Linux
 - NPM/ Yarn
-- AWS
+- AWS (AWS Practioner)
+- Git & Github Actions (such as CI&CD)
 
 <br/>
 
