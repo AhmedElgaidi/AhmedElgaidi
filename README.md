@@ -9,8 +9,7 @@
 
 
 ### About Me:
-A skilled Javascript developer with a passion for<br/> backend development, and web pentesting.
-
+A passionate and results-driven Software Engineer with a proven one-year track record in backend development using NodeJS. Committed to delivering robust, scalable, maintainable, and secure solutions, I excel in building clean, testable APIs that adhere to best practices and industry standards.
 
 ### My Tech stack:
 ##### Frontend: 
@@ -20,11 +19,23 @@ A skilled Javascript developer with a passion for<br/> backend development, and 
 - Familiar with (React, NextJS, Redux, Apollo client)
 ##### Backend:
 - NodeJS/ Express/ NestJS
-- NoSQL/ MongoDB/ Redis/ Firebase
-- SQL/ PostgreSQL
-- TypeORM/ Mongoose/ Sequelize/ Prisma
 - RESTful APIs/ GraphQL APIs
-
+##### Databases:
+- PostgreSQL
+- MongoDB
+- Firebase
+- Redis
+##### ORMs:
+- TypeORM
+- Mongoose
+- Sequelize
+- Prisma
+##### Deployment:
+- Git & GitHub
+- CI&CD (GitHub Actions)
+- Docker (Basics)
+##### Cloud Providers:
+- AWS (Cloud Practioner)
 ##### Other:
 - Jest
 - Babel
@@ -32,8 +43,6 @@ A skilled Javascript developer with a passion for<br/> backend development, and 
 - Postman
 - Linux
 - NPM/ Yarn
-- AWS (AWS Practioner)
-- Git & Github Actions (such as CI&CD)
 
 <br/>
 
