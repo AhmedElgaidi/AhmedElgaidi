@@ -11,38 +11,29 @@
 ### About Me:
 A passionate and results-driven Software Engineer with a proven one-year track record in backend development using NodeJS. Committed to delivering robust, scalable, maintainable, and secure solutions, I excel in building clean, testable APIs that adhere to best practices and industry standards.
 
-### My Tech stack:
-#### Frontend: 
-- HTML/ Handlebars/ Pug/ EJS
-- CSS/ Bootstrap/ Bulma/ SASS/ TailwindCSS
-- Familiar with (React, NextJS, Redux, Apollo client)
+### Tech Stack:
+#### Frontend:
+- HTML/ CSS (Bootstrap, Bulma, SASS, TailwindCSS)
+- Familiar with React, NextJS, Redux, Apollo client
+- 
 #### Backend:
 - NodeJS/ Express/ NestJS
 - RESTful APIs/ GraphQL APIs
+
 #### Databases:
-- PostgreSQL
-- MongoDB
-- Firebase
-- Redis
+- PostgreSQL, MongoDB, Firebase, Redis
+
 #### ORMs:
-- TypeORM
-- Mongoose
-- Sequelize
-- Prisma
+- TypeORM, Mongoose, Sequelize, Prisma
+
 #### Deployment:
-- Git & GitHub
-- CI&CD (GitHub Actions)
-- Docker (Basics)
+- Git & GitHub, CI&CD (GitHub Actions), Docker (Basics)
+
 #### Cloud Providers:
-- AWS (Cloud Practioner)
+- AWS (Cloud Practitioner)
+
 #### Other:
-- Javascript/ Typescript
-- Jest
-- Babel
-- Webpack
-- Postman
-- Linux
-- NPM/ Yarn
+- Javascript/ Typescript, Jest, Babel, Webpack, Postman, Linux, NPM/Yarn
 
 <br/>
 
