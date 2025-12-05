@@ -9,7 +9,7 @@
 
 
 ### About Me:
-A passionate and results-driven Software Engineer with a proven one-year track record in backend development using NodeJS. Committed to delivering robust, scalable, maintainable, and secure solutions, I excel in building clean, testable APIs that adhere to best practices and industry standards.
+A passionate and results-driven Software Engineer with a proven 3 years track record in backend development using NodeJS. Committed to delivering robust, scalable, maintainable, and secure solutions, I excel in building clean, testable APIs that adhere to best practices and industry standards.
 
 ### Tech Stack:
 #### Frontend:
